@@ -25,7 +25,7 @@
 
 ## Diagrama de paquetes
 
-![Secuencia](https://github.com/cristianrodriguez05/Modelamiento_juego_ventiuna/blob/main/diagramas/xx.jpg)
+![Secuencia](https://github.com/cristianrodriguez05/Modelamiento_juego_ventiuna/blob/main/diagramas/Diagrama%20de%20paquetes.png)
 
 ## Diagrama de despliegue
 
