@@ -20,7 +20,8 @@
 
 ## Diagrama de casos de uso
 
-![Clases](https://github.com/cristianrodriguez05/Modelamiento_juego_ventiuna/blob/main/diagramas/xx.jpg)
+![Clases)](https://user-images.githubusercontent.com/81981433/134132718-b81e1908-57e2-4838-8ec3-46b0e482d8bf.png)
+
 
 ## Diagrama de paquetes
 
