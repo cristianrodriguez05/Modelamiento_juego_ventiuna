@@ -12,7 +12,7 @@
 
 ## Diagrama de clases
 
-![Clases](https://github.com/cristianrodriguez05/Modelamiento_estatico_curso/blob/main/Diagramas%20ejercicio%20cursos/modelamiento_clases_curso.jpg?raw=true)
+![Clases](https://github.com/cristianrodriguez05/Modelamiento_juego_ventiuna/blob/main/diagramas/diagrama_clases_ventiuna.jpg)
 
 ## Diagrama de secuencia
 
