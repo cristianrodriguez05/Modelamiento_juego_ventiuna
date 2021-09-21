@@ -16,17 +16,17 @@
 
 ## Diagrama de secuencia
 
-![Secuencia](https://github.com/cristianrodriguez05/Modelamiento_juego_ventiuna/blob/main/diagramas/xx.jpg)
+![Secuencia](https://github.com/cristianrodriguez05/Modelamiento_juego_ventiuna/blob/main/diagramas/diagrama_secuencia_ventiuna.png)
 
 ## Diagrama de casos de uso
 
-![Clases)](https://user-images.githubusercontent.com/81981433/134132718-b81e1908-57e2-4838-8ec3-46b0e482d8bf.png)
+![Casos)](https://user-images.githubusercontent.com/81981433/134132718-b81e1908-57e2-4838-8ec3-46b0e482d8bf.png)
 
 
 ## Diagrama de paquetes
 
-![Secuencia](https://github.com/cristianrodriguez05/Modelamiento_juego_ventiuna/blob/main/diagramas/Diagrama%20de%20paquetes.png)
+![Paquetes](https://github.com/cristianrodriguez05/Modelamiento_juego_ventiuna/blob/main/diagramas/Diagrama%20de%20paquetes.png)
 
 ## Diagrama de despliegue
 
-![Secuencia](https://github.com/cristianrodriguez05/Modelamiento_juego_ventiuna/blob/main/diagramas/Diagrama%20de%20despliegue.png)
+![Despliegue](https://github.com/cristianrodriguez05/Modelamiento_juego_ventiuna/blob/main/diagramas/Diagrama%20de%20despliegue.png)
